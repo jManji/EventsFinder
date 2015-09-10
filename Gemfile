@@ -1,0 +1,7 @@
+ruby '2.1.6'
+source 'https://rubygems.org'
+gem 'rest-client'
+gem 'json'
+gem 'pry'
+gem 'pry-nav'
+gem 'nokogiri'
